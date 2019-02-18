@@ -207,19 +207,6 @@
 		</div>
 		<div class="col-md-4">
 			<div class="teamp">
-				<img class="img-responsive img-circle teamimg" alt="photo" src="<?php bloginfo('template_directory'); ?>/assets/img/people/vanessa.jpg" />
-				<h2 class="teamname">Vanessa Steeg</h2>
-				<div class="teammeta">
-					<h3 class="teamtitle">Project Manager</h3>
-					<h4 class="teamexpertise">Marketing, Media design and Project Management</h4>
-					<h4 class="teamlocation">lives in Stuttgart, Germany</h4>
-					<p class="teamsocial"><!--<a href="http://blog.jospoortvliet.com/"><i class="fa-rss fa"></i></a>--> <!--<a href="https://github.com/jospoortvliet"><i class="fa-github fa"></i></a>--> <!--<a href="https://twitter.com/vanesteeg"><i class="fa-twitter fa"></i></a>--> &nbsp;</p>
-				</div>
-				<p class="teamdescription">Vanessa has a degree in Media Design and qualifications as Executive Assistant in various languages (German, English and Spanish). Her experience ranges from project management to graphic design, marketing and communication.</p>
-			</div>
-		</div>
-		<div class="col-md-4">
-			<div class="teamp">
 				<img class="img-responsive img-circle teamimg" alt="photo" src="<?php bloginfo('template_directory'); ?>/assets/img/people/jan.jpg" />
 				<h2 class="teamname">Jan-Christoph Borchardt</h2>
 				<div class="teammeta">
